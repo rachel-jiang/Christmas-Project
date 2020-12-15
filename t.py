@@ -83,7 +83,7 @@ while True:
             histValues = np.sum(mask, axis=0)
             maxValue = np.max(histValues)
             print(maxValue)
-            if maxValue >= 150000:
+            if maxValue >= 110000:
                 var = "yes"
             else:
                 var = "no"

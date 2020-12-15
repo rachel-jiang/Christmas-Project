@@ -90,7 +90,7 @@ while True:
         else:
             var = "no"
 
-        print(var)
+        #print(var)
 
         if var == "yes":
             GPIO.setup(16, GPIO.OUT)

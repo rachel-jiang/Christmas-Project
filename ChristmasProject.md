@@ -148,7 +148,7 @@ elif x=="blue":
     mask = cv2.inRange(hsv, lower_blue, upper_blue)
     histValues = np.sum(mask, axis=0)
     maxValue = np.max(histValues)
-    if maxValue >= 150000:
+    if maxValue >= 110000:
         var = "yes"
     else:
         var = "no"

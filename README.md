@@ -1,17 +1,17 @@
 # Christmas-Project
 
-3 to 5 years old kids will need early childhood development toys. This toy is made for the kids making connection between color and words.
+3 to 5 years old kids will need early childhood development toys. This toy is made for the kids **making connection between color and words**.
 
-For this project, you will need to import the following package:
+**Import the following package for preparing:**
 
-1. opencv
+1. opencv (cv2)
 2. numpy
 3. random
 4. RPi.GPIO
 5. time
 6. picamera
 
-Materials required:
+**Materials required**:
 
 1. 1 raspberrypi
 2. 1 breadboard
